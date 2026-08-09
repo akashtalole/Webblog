@@ -5,7 +5,7 @@ mermaid: true
 categories: [AI, Agentic AI]
 tags: [rag, vector-database, pgvector, pinecone, qdrant, comparison, agentic-ai-series]
 author: Roshni Kasliwal
-description: A practical comparison of four vector database options across the axes that actually decide a production choice: operational burden, filtering, hybrid search, and cost at scale.
+description: "A practical comparison of four vector database options across the axes that actually decide a production choice: operational burden, filtering, hybrid search, and cost at scale."
 ---
 
 Every one of these four can serve as the vector store for a RAG pipeline. The differences that matter aren't raw recall-at-k benchmarks — they're mostly tied — they're operational: who runs it, how filtering works, and what it costs once you're past the free tier.

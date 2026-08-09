@@ -5,7 +5,7 @@ mermaid: true
 categories: [AI Engineering, Scaling AI Systems]
 tags: [multi-provider, reliability, cost-optimization, scaling-ai-series]
 author: Roshni Kasliwal
-description: The fallback chain from the previous post handles outages. True multi-provider redundancy — actively split across providers, not just failover — raises a different question: how to get the reliability benefit without paying for full duplicate capacity at all times."
+description: "The fallback chain from the previous post handles outages. True multi-provider redundancy — actively split across providers, not just failover — raises a different question: how to get the reliability benefit without paying for full duplicate capacity at all times."
 ---
 
 The previous post's fallback chain activates a secondary provider only during an outage — most of the time, that secondary capacity sits completely idle, paid for in the sense of engineering investment but not in ongoing compute spend, since fallback-only usage means no cost until it's actually needed. Active multi-provider redundancy — genuinely splitting traffic across providers under normal operation, not just failover — is a different model with a different cost question: how much of the "always split" benefit can you get without paying for genuinely duplicated capacity you don't actually need most of the time.
