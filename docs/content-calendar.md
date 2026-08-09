@@ -1,8 +1,8 @@
-# Content Calendar: 2026-04-01 to 2026-09-30
+# Content Calendar: 2026-04-01 to 2026-12-31
 
 Planning doc, not a published page (this `docs/` directory is excluded from the Jekyll build — see `_config.yml`).
 
-Every calendar day in the blog's active range now has a published post in `_posts/`. This calendar was originally used to plan the ~145 gap-filling posts added after the initial weekly-cadence series; all of them have since been written and published, so every row below is Published.
+Every calendar day in the blog's full active range (April through December 2026) has a published post in `_posts/`. The blog started with a weekly-cadence series (Apr-Sep), which was filled in to a daily cadence, then extended through year-end with three new daily series covering agentic commerce/economy (Oct), evaluation/security/governance (Nov), and edge agents/coding agents/orchestration/year-end retrospective (Dec).
 
 | Date | Status | Title | Series | File |
 |---|---|---|---|---|
@@ -189,6 +189,98 @@ Every calendar day in the blog's active range now has a published post in `_post
 | 2026-09-28 | Published | A Roadmap Template for an Agent Platform's Next Two Quarters | scaling-ai-series | `2026-09-28-roadmap-template-agent-platform-next-two-quarters.md` |
 | 2026-09-29 | Published | Closing the Loop: From Week One's Architecture to a Mature Platform | scaling-ai-series | `2026-09-29-closing-the-loop-week-one-to-mature-platform.md` |
 | 2026-09-30 | Published | The LLMOps Maturity Model: Where Your Team Actually Stands | scaling-ai-series | `2026-09-30-llmops-maturity-model-where-team-stands.md` |
+| 2026-10-01 | Published | Why Narrow, Vertical Agents Are Winning Over General-Purpose Assistants in 2026 | agent-economy-series | `2026-10-01-narrow-vertical-agents-winning-2026.md` |
+| 2026-10-02 | Published | From Chat to Execution: Measuring Agents by What They Close, Not What They Say | agent-economy-series | `2026-10-02-chat-to-execution-measuring-agents-by-what-they-close.md` |
+| 2026-10-03 | Published | The Orchestration Layer: Where 2026's Enterprise Agent Value Actually Concentrates | agent-economy-series | `2026-10-03-orchestration-layer-enterprise-value-concentrates.md` |
+| 2026-10-04 | Published | Multi-Vendor Model Routing Inside a Single Orchestrated Workflow | agent-economy-series | `2026-10-04-multi-vendor-model-routing-orchestrated-workflow.md` |
+| 2026-10-05 | Published | Procurement and Document-Heavy Workflows: The Agent Use Case Nobody's Excited About and Everyone's Shipping | agent-economy-series | `2026-10-05-procurement-document-workflows-unglamorous-agent-use-case.md` |
+| 2026-10-06 | Published | IT Operations Agents: Ticket Triage as the Proving Ground for Enterprise Trust | agent-economy-series | `2026-10-06-it-operations-agents-ticket-triage-proving-ground.md` |
+| 2026-10-07 | Published | Building a Business Case for a Vertical Agent, Not a Platform | agent-economy-series | `2026-10-07-business-case-vertical-agent-not-platform.md` |
+| 2026-10-08 | Published | Computer-Use Agents in 2026: What Actually Changed Since the First Demos | agent-economy-series | `2026-10-08-computer-use-agents-2026-what-changed.md` |
+| 2026-10-09 | Published | Inside an Agentic Browser: How Form-Filling and Navigation Actually Work | agent-economy-series | `2026-10-09-inside-agentic-browser-form-filling-navigation.md` |
+| 2026-10-10 | Published | The Manus Acquisition and What It Signals About Browser Agent Consolidation | agent-economy-series | `2026-10-10-manus-acquisition-browser-agent-consolidation.md` |
+| 2026-10-11 | Published | Benchmarking a Browser Agent Against a Human on the Same 30-Field Form | agent-economy-series | `2026-10-11-benchmarking-browser-agent-against-human-30-field-form.md` |
+| 2026-10-12 | Published | Where Computer-Use Agents Still Fail: Dynamic Pages, CAPTCHAs, and Ambiguous UI | agent-economy-series | `2026-10-12-where-computer-use-agents-still-fail.md` |
+| 2026-10-13 | Published | Async Multi-Agent Browsing: Running Ten Browser Sessions in Parallel Safely | agent-economy-series | `2026-10-13-async-multi-agent-browsing-parallel-safely.md` |
+| 2026-10-14 | Published | Memory for Browser Agents: Remembering a Site's Layout Across Sessions | agent-economy-series | `2026-10-14-memory-browser-agents-remembering-site-layout.md` |
+| 2026-10-15 | Published | The Universal Commerce Protocol: What UCP Actually Standardizes | agent-economy-series | `2026-10-15-universal-commerce-protocol-what-ucp-standardizes.md` |
+| 2026-10-16 | Published | Visa's Trusted Agent Protocol and Mastercard's Agentic Payments, Compared | agent-economy-series | `2026-10-16-visa-trusted-agent-protocol-mastercard-agentic-payments-compared.md` |
+| 2026-10-17 | Published | Designing a Merchant Integration for Agent-Initiated Checkout | agent-economy-series | `2026-10-17-designing-merchant-integration-agent-initiated-checkout.md` |
+| 2026-10-18 | Published | Delegated Buying: How Much Autonomy Should a Shopping Agent Actually Have | agent-economy-series | `2026-10-18-delegated-buying-how-much-autonomy-shopping-agent.md` |
+| 2026-10-19 | Published | Fraud and Chargebacks in a World Where the Buyer Is Sometimes an Agent | agent-economy-series | `2026-10-19-fraud-chargebacks-when-buyer-is-sometimes-agent.md` |
+| 2026-10-20 | Published | What Retailers Are Actually Measuring After Their First Agentic Commerce Pilot | agent-economy-series | `2026-10-20-what-retailers-measuring-first-agentic-commerce-pilot.md` |
+| 2026-10-21 | Published | The Holiday Season 2026 Stress Test for Agentic Checkout | agent-economy-series | `2026-10-21-holiday-season-2026-stress-test-agentic-checkout.md` |
+| 2026-10-22 | Published | What \"AI Employee\" Actually Means, Beyond the Marketing Term | agent-economy-series | `2026-10-22-what-ai-employee-actually-means.md` |
+| 2026-10-23 | Published | Redesigning a Workflow Around an Agent, Not Just Inserting One Into It | agent-economy-series | `2026-10-23-redesigning-workflow-around-agent-not-inserting.md` |
+| 2026-10-24 | Published | The 84% Gap: Why Most Companies Haven't Redesigned Jobs Around Agent Capability | agent-economy-series | `2026-10-24-84-percent-gap-workflows-not-redesigned.md` |
+| 2026-10-25 | Published | Manager's Guide to Onboarding an Agent Like You'd Onboard a New Hire | agent-economy-series | `2026-10-25-managers-guide-onboarding-agent-like-new-hire.md` |
+| 2026-10-26 | Published | What Happens When an \"AI Employee\" Needs a Performance Review | agent-economy-series | `2026-10-26-ai-employee-performance-review.md` |
+| 2026-10-27 | Published | Hybrid Teams: Structuring Human-Agent Collaboration on a Real Project | agent-economy-series | `2026-10-27-hybrid-teams-human-agent-collaboration-real-project.md` |
+| 2026-10-28 | Published | The Skills Gap Blocking Digital Workforce Adoption, and What Closes It | agent-economy-series | `2026-10-28-skills-gap-blocking-digital-workforce-adoption.md` |
+| 2026-10-29 | Published | Real-Time Voice Agents: What Changed With Native Speech-to-Speech Models | agent-economy-series | `2026-10-29-real-time-voice-agents-native-speech-to-speech.md` |
+| 2026-10-30 | Published | Designing Interruption Handling for a Voice Agent That Feels Natural | agent-economy-series | `2026-10-30-designing-interruption-handling-voice-agent.md` |
+| 2026-10-31 | Published | Voice Agents in Regulated Industries: Healthcare Intake and Compliance Recording | agent-economy-series | `2026-10-31-voice-agents-regulated-industries-healthcare-compliance.md` |
+| 2026-11-01 | Published | The 37% Gap: Why Lab Benchmarks Overstate Real-World Agent Performance | agentic-trust-series | `2026-11-01-37-percent-gap-lab-benchmarks-overstate-performance.md` |
+| 2026-11-02 | Published | Reading the 56.6% Number: What a Production Reliability Study Actually Measured | agentic-trust-series | `2026-11-02-reading-56-6-percent-production-reliability-study.md` |
+| 2026-11-03 | Published | How Benchmarks Get Gamed: The Berkeley Findings on Near-Perfect Scores Without Solving the Task | agentic-trust-series | `2026-11-03-berkeley-findings-benchmark-gaming-near-perfect-scores.md` |
+| 2026-11-04 | Published | Pass^k and the Push Toward Multi-Day, Long-Horizon Agent Evaluation | agentic-trust-series | `2026-11-04-pass-k-long-horizon-multi-day-agent-evaluation.md` |
+| 2026-11-05 | Published | Cost-Aware Benchmarking: Why Pass Rate Alone Was Always the Wrong Single Metric | agentic-trust-series | `2026-11-05-cost-aware-benchmarking-pass-rate-wrong-single-metric.md` |
+| 2026-11-06 | Published | Building Your Own Production Reliability Dashboard from the Berkeley Methodology | agentic-trust-series | `2026-11-06-building-production-reliability-dashboard-berkeley-methodology.md` |
+| 2026-11-07 | Published | What \"Production-Ready\" Should Mean After a Year of Inflated Benchmark Claims | agentic-trust-series | `2026-11-07-what-production-ready-should-mean-after-inflated-benchmarks.md` |
+| 2026-11-08 | Published | OWASP's 2026 LLM Security Report: What Actually Changed in a Year | agentic-trust-series | `2026-11-08-owasp-2026-llm-security-report-what-changed.md` |
+| 2026-11-09 | Published | Inside the Mexican Government Breach: How One Operator Used Two Coding Agents to Exfiltrate 400 Million Records | agentic-trust-series | `2026-11-09-mexican-government-breach-chained-coding-agents.md` |
+| 2026-11-10 | Published | The Microsoft 365 Copilot Zero-Click Vulnerability, Explained | agentic-trust-series | `2026-11-10-microsoft-365-copilot-zero-click-vulnerability-explained.md` |
+| 2026-11-11 | Published | Why 340% Year-Over-Year Growth in Prompt Injection Isn't Slowing Down | agentic-trust-series | `2026-11-11-why-340-percent-injection-growth-not-slowing.md` |
+| 2026-11-12 | Published | Excess Access: The Root Cause Behind Most 2026 Agent Breaches | agentic-trust-series | `2026-11-12-excess-access-root-cause-2026-agent-breaches.md` |
+| 2026-11-13 | Published | Auditing Agent Tool Permissions Like You'd Audit IAM Roles | agentic-trust-series | `2026-11-13-auditing-agent-tool-permissions-like-iam-roles.md` |
+| 2026-11-14 | Published | What a Post-Incident Access Review Actually Looks Like for an Agent Fleet | agentic-trust-series | `2026-11-14-post-incident-access-review-agent-fleet.md` |
+| 2026-11-15 | Published | The EU AI Act's August Deadline: What High-Risk Agentic Systems Had to Prove | agentic-trust-series | `2026-11-15-eu-ai-act-august-deadline-high-risk-agentic-systems.md` |
+| 2026-11-16 | Published | Where Compliance Boundaries Actually Sit in a Chain of Delegated Agents | agentic-trust-series | `2026-11-16-compliance-boundaries-chain-delegated-agents.md` |
+| 2026-11-17 | Published | Six-Month Log Retention and What It Actually Requires of Your Architecture | agentic-trust-series | `2026-11-17-six-month-log-retention-what-it-requires-architecture.md` |
+| 2026-11-18 | Published | No SME Exemption: What Smaller Teams Are Actually Doing to Comply | agentic-trust-series | `2026-11-18-no-sme-exemption-smaller-teams-comply.md` |
+| 2026-11-19 | Published | Article 14 Human Oversight, Implemented: Three Patterns That Satisfy It | agentic-trust-series | `2026-11-19-article-14-human-oversight-three-patterns.md` |
+| 2026-11-20 | Published | From Compliance Overhead to Enabler: How Mature Governance Actually Unlocks Deployment | agentic-trust-series | `2026-11-20-compliance-overhead-to-enabler-mature-governance.md` |
+| 2026-11-21 | Published | The 82% Shadow AI Problem: Finding Agents Your Security Team Didn't Know About | agentic-trust-series | `2026-11-21-82-percent-shadow-ai-finding-agents-security-didnt-know.md` |
+| 2026-11-22 | Published | Building an Agent Inventory Before You Can Govern What You Can't See | agentic-trust-series | `2026-11-22-building-agent-inventory-before-governing.md` |
+| 2026-11-23 | Published | Conformity Assessment for an Agentic System: A Walkthrough | agentic-trust-series | `2026-11-23-conformity-assessment-agentic-system-walkthrough.md` |
+| 2026-11-24 | Published | Technical Documentation Requirements Under Article 11, for Engineers | agentic-trust-series | `2026-11-24-technical-documentation-article-11-for-engineers.md` |
+| 2026-11-25 | Published | Data Governance for Agent Training and Retrieval Corpora Under the Act | agentic-trust-series | `2026-11-25-data-governance-training-retrieval-corpora-under-act.md` |
+| 2026-11-26 | Published | Robustness Testing as a Regulatory Requirement, Not Just an Engineering Nice-to-Have | agentic-trust-series | `2026-11-26-robustness-testing-regulatory-requirement.md` |
+| 2026-11-27 | Published | Transparency Obligations: What Users Are Now Owed When Talking to an Agent | agentic-trust-series | `2026-11-27-transparency-obligations-what-users-owed-talking-agent.md` |
+| 2026-11-28 | Published | Where U.S. State Law and the EU AI Act Actually Converge for Agentic Systems | agentic-trust-series | `2026-11-28-us-state-law-eu-ai-act-convergence-agentic-systems.md` |
+| 2026-11-29 | Published | A Governance Framework That Doesn't Slow Deployment, Assembled | agentic-trust-series | `2026-11-29-governance-framework-that-doesnt-slow-deployment-assembled.md` |
+| 2026-11-30 | Published | Six Months of Real Breaches: What the Incident Pattern Actually Teaches | agentic-trust-series | `2026-11-30-six-months-real-breaches-incident-pattern-teaches.md` |
+| 2026-12-01 | Published | Why a 2.6B Model Is Beating a 671B Model on Domain-Specific Tasks | road-to-2027-series | `2026-12-01-2-6b-model-beating-671b-model-domain-specific-tasks.md` |
+| 2026-12-02 | Published | The 1-3B Sweet Spot: Sizing a Small Language Model for an Edge Agent | road-to-2027-series | `2026-12-02-1-3b-sweet-spot-sizing-small-language-model-edge-agent.md` |
+| 2026-12-03 | Published | Hybrid Routing: Keeping 80-90% of Agentic Tasks in the Local Lane | road-to-2027-series | `2026-12-03-hybrid-routing-80-90-percent-tasks-local-lane.md` |
+| 2026-12-04 | Published | What On-Device Agentic Siri Actually Does Locally vs in the Cloud | road-to-2027-series | `2026-12-04-on-device-agentic-siri-locally-vs-cloud.md` |
+| 2026-12-05 | Published | Fine-Tuning a Small Model to Match Frontier Tool-Use Quality | road-to-2027-series | `2026-12-05-fine-tuning-small-model-match-frontier-tool-use.md` |
+| 2026-12-06 | Published | Privacy and Latency: The Two Arguments for Edge Agents That Actually Hold Up | road-to-2027-series | `2026-12-06-privacy-latency-two-arguments-edge-agents-hold-up.md` |
+| 2026-12-07 | Published | Choosing Between Llama, Qwen, and GLM for an Edge Deployment in Late 2026 | road-to-2027-series | `2026-12-07-choosing-llama-qwen-glm-edge-deployment-late-2026.md` |
+| 2026-12-08 | Published | From Suggestion to Delegation: What Actually Changed in Coding Agents This Year | road-to-2027-series | `2026-12-08-suggestion-to-delegation-what-changed-coding-agents.md` |
+| 2026-12-09 | Published | Inside a Multi-Hour Autonomous Coding Session: What the Agent Actually Does Alone | road-to-2027-series | `2026-12-09-inside-multi-hour-autonomous-coding-session.md` |
+| 2026-12-10 | Published | The 90/10 Split: Why Most \"Agentic\" Coding Usage Is Still Workflows | road-to-2027-series | `2026-12-10-90-10-split-most-agentic-coding-still-workflows.md` |
+| 2026-12-11 | Published | What Changes for an Engineering Team When Agents Open Their Own Pull Requests | road-to-2027-series | `2026-12-11-what-changes-when-agents-open-own-pull-requests.md` |
+| 2026-12-12 | Published | Measuring the Productivity Report: Net Time Down, Output Volume Up | road-to-2027-series | `2026-12-12-productivity-report-net-time-down-output-volume-up.md` |
+| 2026-12-13 | Published | Self-Healing CI: Agents That Fix Their Own Failing Tests Before You See Them | road-to-2027-series | `2026-12-13-self-healing-ci-agents-fix-own-failing-tests.md` |
+| 2026-12-14 | Published | Code Review for Autonomous Agent PRs, Revisited at Higher Volume | road-to-2027-series | `2026-12-14-code-review-autonomous-agent-prs-higher-volume-revisited.md` |
+| 2026-12-15 | Published | What Orchestration Actually Looks Like in a Mature 2026 Deployment | road-to-2027-series | `2026-12-15-what-orchestration-looks-like-mature-2026-deployment.md` |
+| 2026-12-16 | Published | Cross-Framework Orchestration: Coordinating LangGraph, CrewAI, and Custom Agents Together | road-to-2027-series | `2026-12-16-cross-framework-orchestration-langgraph-crewai-custom.md` |
+| 2026-12-17 | Published | The Control Layer: Centralizing Policy Across a Fleet of Heterogeneous Agents | road-to-2027-series | `2026-12-17-control-layer-centralizing-policy-heterogeneous-fleet.md` |
+| 2026-12-18 | Published | Observability for an Orchestration Layer, Not Just Individual Agents | road-to-2027-series | `2026-12-18-observability-orchestration-layer-not-just-individual-agents.md` |
+| 2026-12-19 | Published | When Orchestration Becomes the Bottleneck It Was Supposed to Prevent | road-to-2027-series | `2026-12-19-when-orchestration-becomes-bottleneck-supposed-prevent.md` |
+| 2026-12-20 | Published | Vendor Lock-In at the Orchestration Layer: A Second Look | road-to-2027-series | `2026-12-20-vendor-lock-in-orchestration-layer-second-look.md` |
+| 2026-12-21 | Published | Capacity and Cost Planning for a True Multi-Agent Fleet | road-to-2027-series | `2026-12-21-capacity-cost-planning-true-multi-agent-fleet.md` |
+| 2026-12-22 | Published | The Holiday 2026 Agentic Commerce Stress Test: What Actually Happened | road-to-2027-series | `2026-12-22-holiday-2026-agentic-commerce-stress-test-what-happened.md` |
+| 2026-12-23 | Published | A Year of Voice Agents in Production: What Broke, What Didn't | road-to-2027-series | `2026-12-23-year-voice-agents-production-what-broke.md` |
+| 2026-12-24 | Published | Reader Mailbag: The Questions That Came Up Most This Year | road-to-2027-series | `2026-12-24-reader-mailbag-questions-came-up-most-this-year.md` |
+| 2026-12-25 | Published | The Best and Worst Agent Failure Stories of 2026 | road-to-2027-series | `2026-12-25-best-worst-agent-failure-stories-2026.md` |
+| 2026-12-26 | Published | What This Blog Got Wrong in 2026, Revisited Honestly | road-to-2027-series | `2026-12-26-what-this-blog-got-wrong-2026-revisited-honestly.md` |
+| 2026-12-27 | Published | Nine Months of Daily Posts: What Actually Held Up | road-to-2027-series | `2026-12-27-nine-months-daily-posts-what-actually-held-up.md` |
+| 2026-12-28 | Published | The State of Agentic AI, December 2026: A Field-Wide Assessment | road-to-2027-series | `2026-12-28-state-of-agentic-ai-december-2026-field-wide-assessment.md` |
+| 2026-12-29 | Published | Five Predictions for Agentic AI in 2027, Made Accountable | road-to-2027-series | `2026-12-29-five-predictions-agentic-ai-2027-made-accountable.md` |
+| 2026-12-30 | Published | A Reader's Guide to This Entire Year, Organized by What You Actually Need | road-to-2027-series | `2026-12-30-readers-guide-entire-year-organized-by-need.md` |
+| 2026-12-31 | Published | Closing Out 2026: The One Thing Worth Remembering From All of This | road-to-2027-series | `2026-12-31-closing-out-2026-one-thing-worth-remembering.md` |
 
-**Totals:** 183 published / 183 days covered.
+**Totals:** 275 published / 275 days covered — zero gaps.
 
